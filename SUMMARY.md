@@ -12,6 +12,10 @@
 ## Tech
 
 * [기본적인 웹 환경의 아키텍처 설명하기](tech/explain-architecture.md)
+* [애플리케이션 성능 테스트](tech/application-performance-test.md)
+* [DB 개선 ① - 인덱스](tech/db-optimization-1-index.md)
+* [DB 개선 ② - 실행 계획](tech/db-optimization-2-execution-plan.md)
+* [DB 개선 ③ - 커넥션 사이즈 조절](tech/db-optimization-3-connection-pool-sizing.md)
 
 ## INTERNET
 
